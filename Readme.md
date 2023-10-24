@@ -1,6 +1,6 @@
 # Send mail via an API
 
-The example shows how to use [Mailchain SDK](https://www.npmjs.com/package/@mailchain/sdk) to send messages via an API. Sending messages from a server means that the Secret Recovery Phrase can be stored securely on the backend. A full write up of the code can be found at https://docs.mailchain.com/developer/tutorials/send-via-api.
+This is webhook for sending messages via an API. It is based on the [Mailchain SDK](https://www.npmjs.com/package/@mailchain/sdk).
 
 # Run
 
